@@ -8,11 +8,11 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-3.9%20|%203.12-blue.svg" alt="Python Version">
-    <img src="https://img.shields.io/badge/Hardware-Google%20Coral%20TPU-red.svg" alt="Hardware Support">
-    <img src="https://img.shields.io/badge/Models-YOLOv8--v12-orange.svg" alt="Models Support">
-    <img src="https://img.shields.io/badge/Runtime-LiteRT%203.0+-green.svg" alt="Runtime">
-    <img src="https://img.shields.io/badge/License-MIT-gray.svg" alt="License">
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9%20|%203.12-blue.svg" alt="Python Version"></a>
+    <a href="https://coral.ai/"><img src="https://img.shields.io/badge/Hardware-Google%20Coral%20TPU-red.svg" alt="Hardware Support"></a>
+    <a href="https://docs.ultralytics.com/"><img src="https://img.shields.io/badge/Models-YOLOv8--v12-orange.svg" alt="Models Support"></a>
+    <a href="https://ai.google.dev/edge/litert"><img src="https://img.shields.io/badge/Runtime-LiteRT%203.0+-green.svg" alt="Runtime"></a>
+    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-gray.svg" alt="License"></a>
   </p>
 </div>
 
