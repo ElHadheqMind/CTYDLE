@@ -59,7 +59,13 @@ To achieve zero-lag inference while maintaining modern compatibility, CTYDLE uti
 
 **Hadheq CTYDLE** is designed for "Zero-Manual-Touch" configuration. Our setup scripts handle GPG keys, Coral repositories, C++ runtimes, and isolated Python environments automatically.
 
-### Initialize the Full Stack
+### Initialize the Full Stack (Recommended)
+```bash
+chmod +x install_all.sh && ./install_all.sh
+```
+
+### Manual Environment setup
+If you prefer to isolate the stages:
 ```bash
 # Set up the high-stability inference environment (Python 3.9)
 chmod +x setup_inference.sh && ./setup_inference.sh
